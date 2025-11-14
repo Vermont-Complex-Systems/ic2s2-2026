@@ -5,46 +5,52 @@ title: Accommodation
   <div class="title">Accommodation</div>
   <div class="container">
     <p>
-      Norrköping offers a wide range of accommodation types. Below, we list
-      an assortment of hotels where you can book accommodation for your stay in
-      Norrköping. Questions regarding accommodation and registration can be
+      Burlington offers a wide range of accommodation types, from hotels to campus housing to bed and breakfasts. Questions regarding accommodation and registration can be
       emailed to <a href="mailto:{{ site.emails.accommodation }}">{{ site.emails.accommodation }}</a>
     </p>
 
+    <h2>Hotel Accommodations</h2>
     <p>
-      Accommodation during the conference dates are prebooked. You will be able
-      to book accommodation when the conference registration opens.
+      The following hotels offer discounted rates for IC2S2 participants for reservations made before June 1st:
     </p>
 
-    <table class="prices" style="text-align: left !important;">
-      <tr>
-        <th>Name and Link</th>
-        <th>Type</th>
-        <th>Address</th>
-        <th>Rate per night</th>
-        <th>Booking</th>
-      </tr>
-      {% for hotel in site.data.accommodation %}
-        <tr>
-          <td>
-            {% if hotel.link %}
-              <a href="{{ hotel.link }}">{{ hotel.name }}</a>
-            {% else %}
-            {{ hotel.name }}
-            {% endif %}
-          </td>
-          <td>{{ hotel.type }}</td>
-          <td>{{ hotel.address }}</td>
-          <td>{{ hotel.rate }}</td>
-          <td>
-            {% if hotel.booking %}
-            {{ hotel.booking }}
-            {% else %}
-            <em>via Hotel website</em>
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
-    </table>
+    <!-- <p><strong>[INSERT HOTELS WITH CONTRACTS]</strong></p> -->
+
+    <h2>On-Campus Housing</h2>
+    <p>
+      For highly discounted accommodations, campus housing is available. UVM offers several levels of overnight accommodations. Our 2025 rates are listed below; generally our rates increase about 3% annually, but we have confirmed if a contract is signed before May we can hold our 2025 housing prices. <strong>Rates do not include 12% housing tax.</strong> Linen package includes sheets, pillow and pillowcase, blanket, bath towels, hand towel, and washcloth.
+    </p>
+
+    <h3>University Heights Complexes</h3>
+    <p>Air-conditioned single and double occupancy rooms with semi-private bathrooms (one bathroom shared between 2-4 people). Rates include linen package:</p>
+    <ul>
+      <li><strong>Single:</strong> $82.00 per person</li>
+      <li><strong>Double:</strong> $59.00 per person</li>
+    </ul>
+
+    <h3>Central Campus Residence Hall</h3>
+    <p>Air-conditioned single and double occupancy rooms with centrally located private bathrooms:</p>
+    <ul>
+      <li><strong>Single:</strong> $51.00 per person ($62.00 with linens)</li>
+      <li><strong>Double:</strong> $45.00 per person ($56.00 with linens)</li>
+    </ul>
+
+    <h3>Standard Housing</h3>
+    <p>Non-air-conditioned single and double occupancy rooms with centrally located bathrooms:</p>
+    <ul>
+      <li><strong>Single:</strong> $43.00 per person ($54.00 with linens)</li>
+      <li><strong>Double:</strong> $37.00 per person ($48.00 with linens)</li>
+    </ul>
+
+    <p>
+      On campus housing registration can be incorporated into your conference registration for people who would like an affordable, convenient housing option.
+    </p>
+
+    <h2>Bed and Breakfast Options</h2>
+    <p>There are also Bed and Breakfast options within walking distance of campus:</p>
+    <ul>
+      <li><a href="https://www.langhousevt.com/" target="_blank">The Lang House</a></li>
+      <li><a href="https://www.theblindtigervt.com/" target="_blank">The Blind Tiger</a></li>
+    </ul>
   </div>
 </section>

@@ -19,30 +19,30 @@
     page: getting-there
   - name: Accommodation
     page: accommodation
-  - name: Childcare
-    page: childcare
-  - name: Travel Grants
-    page: travel-grants
+  # - name: Childcare
+    # page: childcare
+  # - name: Travel Grants
+  #   page: travel-grants
   - name: Conduct
     page: conduct
-  - name: Next IC2S2
-    page: next-ic2s2
-- name: Program
-  items:
-  - name: Awards
-    page: awards
-  - name: Program
-    page: program
+  # - name: Next IC2S2
+  #   page: next-ic2s2
+# - name: Program
+#   items:
+  # - name: Awards
+  #   page: awards
+  # - name: Program
+  #   page: program
 #   - name: Poster Details
 #     page: poster
 #   - name: Instructions
 #     page: instructions
-  - name: Keynotes
-    page: keynotes
-  - name: "Keynote Recordings"
-    page: "https://www.youtube.com/playlist?list=PLrDB6riLfdJQaATZksFnXsWflA2cea9We"
-  - name: Tutorials
-    page: tutorials
+  # - name: Keynotes
+  #   page: keynotes
+  # - name: "Keynote Recordings"
+  #   page: "https://www.youtube.com/playlist?list=PLrDB6riLfdJQaATZksFnXsWflA2cea9We"
+  # - name: Tutorials
+  #   page: tutorials
 - name: Organizers
   page: organization # Top-level navigation only has "page", not "items" prop
 - name: About

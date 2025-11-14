@@ -11,31 +11,31 @@ permalink: pretty
 # Global variables, can be accessed using the `site` variable.
 
 # Set this to the domain that the website will be served on.
-url: https://www.ic2s2-2025.org
+url: https://www.ic2s2-2026.org
 # Primary page title (displayed on the browser tab, not the headers)
-title: "IC2S2'25 Norrköping"
+title: "IC2S2'26 Burlington"
 # Location tag (main page)
-location: "Norrköping 2025"
+location: "Burlington 2026"
 # Locale, should probably be kept as is
 locale: en-US
 # Support emails
 emails:
-  general: "ic2s2-2025@liu.se" # General inquiries email
-  accommodation: "congress@tmevent.se" # For hotel bookings etc.
-  childcare: "congress@tmevent.se" # For childcare related questions
-  visa: "congress@tmevent.se" # Visa related questions
+  general: "ic2s2-2026@uvm.edu" # General inquiries email
+  accommodation: "ic2s2-2026@uvm.edu" # For hotel bookings etc.
+  childcare: "ic2s2-2026@uvm.edu" # For childcare related questions
+  visa: "ic2s2-2026@uvm.edu" # Visa related questions
   awareness: "awareness-ic2s2@proton.me" # Awareness contact email during the event
 
 # Post address for the conference
 address: # Each list item becomes its own line. Add as many as needed
-- "<a href=\"https://liu.se/en/research/swecss\">Swedish Excellence Center for Computational Social Science</a>"
+- "<a href=\"https://vermontcomplexsystems.org/\">Vermont Complex Systems Institute</a>"
 - "" # Empty line
-- "<a href=\"https://liu.se/en/organisation/liu/iei/ias\">Institute for Analytical Sociology</a>"
+- "<a href=\"https://www.uvm.edu/\">University of Vermont</a>"
 - "" # Empty line
-- "Linköping University"
-- "Norrköping, Sweden"
+- "Burlington, Vermont"
+- "USA"
 # The label to show on the "Sponsor us" button
-sponsor_button_label: "Become a sponsor of IC²S² in Sweden"
+sponsor_button_label: "Become a sponsor of IC²S² at UVM"
 
 # Any line here is a page that will NOT be included in the final output. If a
 # line is commented out (that is, there is a pound-symbol (#) in front of it),
@@ -71,6 +71,7 @@ exclude:
 # INTERNAL FILES MAY INTRODUCE SECURITY RISKS!
 - MANUAL.md
 - README.md
+- CLAUDE.md
 
 # Set Front matter default variables, which can be overridden on a case-by-case
 # basis.

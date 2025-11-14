@@ -10,3 +10,7 @@ vendor/
 # Ignore VSCode and other files
 .vscode/
 .DS_STORE
+
+*mp4
+*mov
+*webm

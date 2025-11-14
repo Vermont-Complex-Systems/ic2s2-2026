@@ -4,24 +4,27 @@
 # conference OR the tutorials. This will be used across the website to only show
 # the correct dates (e.g. only the tutorial deadlines on the tutorial submission
 # page). It can be "tutorial" or "conference".
-- text: "Tutorial proposal submission deadline: January 17, 2025"
-  done: true
+- text: "Tutorial proposal submission deadline: February 2, 2026"
+  done: false
   category: tutorial
-- text: "Notification of tutorial acceptance: January 31, 2025"
-  done: true
+- text: "Notification of tutorial acceptance: February 16, 2026"
+  done: false
   category: tutorial
-- text: "Abstract submission deadline: February 26, 2025 (AoE)"
-  done: true
+- text: "Abstract submission deadline: March 3, 2026"
+  done: false
   category: conference
-- text: "Notification of abstract acceptance: April 18, 2025"
-  done: true
+- text: "Notification of abstract acceptance: April 14, 2026"
+  done: false
   category: conference
-- text: "Early-bird registration deadline: May 9, 2025"
-  done: true
+- text: "Early-bird registration deadline: May 8, 2026"
+  done: false
   category: conference
-- text: "Tutorial day: July 21, 2025"
-  done: true
+- text: "Registration closes: July 3, 2026"
+  done: false
+  category: conference
+- text: "Tutorial day: July 28, 2026"
+  done: false
   category: tutorial
-- text: "Conference days: July 22-24, 2025"
-  done: true
+- text: "Conference days: July 29-31, 2026"
+  done: false
   category: conference

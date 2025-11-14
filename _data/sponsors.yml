@@ -32,36 +32,9 @@ sponsors:
   sponsors:
 - title: Gold Sponsors
   sponsors:
-  - name: Norrköpings Kommun
-    image: /images/sponsors/norrkopings-kommun.svg
+  - name: Office of the Vice President for Research
+    image: /images/sponsors/UVM_Logo_Primary_Horiz_G.svg
     width: 2 # A number between 1 and 12; square logos should get smaller values
-    url: https://www.norrkoping.se/
-  - name: Vitterhetsakademien
-    image: /images/sponsors/vitterhetsakademien_logo.svg
-    width: 6
-    url: https://www.vitterhetsakademien.se/
-  - name: Metrika
-    image: /images/sponsors/metrika.png
-    width: 4
-    url: https://www.statanordic.com/
-  - name: YouTube
-    image: /images/sponsors/youtube.png
-    width: 4
-    url: https://www.youtube.com/
-  - name: EPJ Data Science
-    image: /images/sponsors/epj_data_science.png
-    width: 4
-    url: https://epjdatascience.springeropen.com/
-  - name: Google
-    image: /images/sponsors/google.png
-    width: 4
-    url: https://www.google.com/
-  - name: Pareto
-    image: /images/sponsors/pareto.png
-    width: 4
-    url: https://www.pareto.ai/
-  - name: Meta
-    image: /images/sponsors/meta.png
-    width: 5
+    url: https://www.uvm.edu/ovpr
 - title: Silver Sponsors
   sponsors:

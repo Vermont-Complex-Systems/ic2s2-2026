@@ -1,31 +1,31 @@
-currency_code: SEK # Three-letter currency code or currency symbol (UTF-8)
-currency_name: "Swedish Kronor"
+currency_code: USD # Three-letter currency code or currency symbol (UTF-8)
+currency_name: "US Dollars"
 # Early Bird registration
-registration_open: true # Is registration possible right now?
+registration_open: false # Is registration possible right now?
 # The following is a message that will be displayed if registration_open is
 # false. Use this to, e.g., announce to participants when registration will
 # open. If this is not present, the system will just indicate that registrations
 # aren't possible.
-registration_closed_reason: "Registration will open in mid-April."
-registration_link: https://www.trippus.net/delegate_registration_ic2s2_standard # Link to registration form
+registration_closed_reason: "Registration Opens November 1st"
+registration_link: # Link to registration form (to be added when available)
 # A custom note to add below the table. This will be shown after the "All Prices
 # shown in currency_name (currency_code)."
 table_note: |
-  Prices include 25 % VAT. The conference dinner includes 12 % VAT. Under certain circumstances, a foreign company with VATable business can apply for a refund of the Swedish VAT (if the company is not VAT registered or should be VAT registered in Sweden). For foreign EU entities an application should be done via the EU VAT refund application system (via the Tax Authority in the country of establishment). For foreign companies established outside of the EU an application of VAT refund should be done via an application form (which can be obtained via the Swedish Tax Agency). For further information please see <a href="https://www.skatteverket.se/foretagochorganisationer/sjalvservice/blanketterbroschyrer/blanketter/info/5801.4.39f16f103821c58f680007004.html?q=5801" target="_blank">this link</a>.
+  Registration fees to be finalized.
 table_data:
   - column_name: Early Bird
     column_data:
     - ""
     - Student
 early_bird:
-  deadline: "May 9" # Until when is early bird possible?
-  student: "2,000"
-  regular: "5,000"
+  deadline: "May 8, 2026" # Until when is early bird possible?
+  student: "TBD"
+  regular: "TBD"
 # Regular registration costs
 regular:
-  student: "2,800"
-  regular: "5,500"
+  student: "TBD"
+  regular: "TBD"
 # Tutorials-only attendance
-tutorials: "750"
+tutorials: "TBD"
 # Optional conference dinner (comment out if there is no dinner)
-conference_dinner: "500"
+# conference_dinner: "TBD"
