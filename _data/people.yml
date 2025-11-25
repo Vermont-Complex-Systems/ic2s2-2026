@@ -155,14 +155,14 @@
 # - title: Poster Chairs
 #   people:
 
-# # WEBSITE AND SOCIAL MEDIA CHAIRS
-# - title: "Website & Social Media Chairs"
-#   people:
-#   - name: Hendrik Erz
-#     affiliation: Institute for Analytical Sociology, Linköping University
-#     field: Political Sociology
-#     image: /images/people/erz_hendrik.jpg
-#     url: https://www.hendrik-erz.de/
+# WEBSITE AND SOCIAL MEDIA CHAIRS
+- title: "Website & Social Media Chairs"
+  people:
+  - name: Jonathan St-Onge
+    affiliation: Vermont Complex Systems Institute
+    field: Computational Social Science
+    image: /images/people/jso.jpg
+    url: jstonge.vercel.app/
 #   - name: Yuan Liao
 #     affiliation: Department of Space, Earth and Environment, Chalmers
 #     field: Transport and Urban Sciences

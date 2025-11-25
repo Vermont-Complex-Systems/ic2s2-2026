@@ -4,6 +4,9 @@
 # conference OR the tutorials. This will be used across the website to only show
 # the correct dates (e.g. only the tutorial deadlines on the tutorial submission
 # page). It can be "tutorial" or "conference".
+- text: "Submissions open: December 15th, 2025"
+  done: false
+  category: conference
 - text: "Tutorial proposal submission deadline: February 2, 2026"
   done: false
   category: tutorial

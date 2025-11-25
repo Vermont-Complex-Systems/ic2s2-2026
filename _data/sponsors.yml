@@ -15,17 +15,28 @@
 # url: A Link to the sponsor's website
 # image: A link to the sponsor logo in the images folder
 levels:
+- title: Platinum Sponsors
+  price: $10,000 and above
+  benefits:
+  - Logo and link on the conference webpage
+  - Logo displayed prominently at the venue and on all conference materials
+  - Complimentary registration and social event tickets for five representatives
 - title: Gold Sponsors
-  price: 60,000 Swedish Kronor (SEK)
+  price: $6,000
   benefits:
-  - Logo and link on webpage
-  - Logo prominently displayed on conference banner
-  - Complimentary registration and social event for 3 of your representatives
+  - Logo and link on the conference webpage
+  - Logo displayed prominently at the venue and on all conference materials
+  - Complimentary registration and social event tickets for three representatives
 - title: Silver Sponsors
-  price: 40,000 SEK
+  price: $4,000
   benefits:
-  - Logo and link on webpage 
-  - Logo displayed on conference banner
+  - Logo and link on the conference webpage
+  - Logo displayed on conference materials
+- title: Bronze Sponsors
+  price: $2,000
+  benefits:
+  - Logo and link on the conference webpage
+  - Acknowledgment in the program booklet and during conference sessions
 ################################################################################
 sponsors:
 - title: Academic Sponsors
@@ -36,5 +47,9 @@ sponsors:
     image: /images/sponsors/UVM_Logo_Primary_Horiz_G.svg
     width: 2 # A number between 1 and 12; square logos should get smaller values
     url: https://www.uvm.edu/ovpr
+  - name: Vermont EPSCoR 
+    image: /images/sponsors/vt_epscor.png
+    width: 2 # A number between 1 and 12; square logos should get smaller values
+    url: https://www.uvm.edu/socks/
 - title: Silver Sponsors
   sponsors:

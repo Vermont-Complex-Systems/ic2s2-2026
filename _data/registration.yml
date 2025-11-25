@@ -1,13 +1,13 @@
 currency_code: USD # Three-letter currency code or currency symbol (UTF-8)
 currency_name: "US Dollars"
 # Early Bird registration
-registration_open: false # Is registration possible right now?
+registration_open: true # Is registration possible right now?
 # The following is a message that will be displayed if registration_open is
 # false. Use this to, e.g., announce to participants when registration will
 # open. If this is not present, the system will just indicate that registrations
 # aren't possible.
-registration_closed_reason: "Registration Opens November 1st"
-registration_link: # Link to registration form (to be added when available)
+registration_closed_reason: "Click here to register"
+registration_link:  https://na.eventscloud.com/ic2s2 # Link to registration form (to be added when available)
 # A custom note to add below the table. This will be shown after the "All Prices
 # shown in currency_name (currency_code)."
 table_note: |
@@ -19,13 +19,13 @@ table_data:
     - Student
 early_bird:
   deadline: "May 8, 2026" # Until when is early bird possible?
-  student: "TBD"
-  regular: "TBD"
+  student: "250"
+  regular: "500"
+  tutorials: "90" # Early bird tutorial price
 # Regular registration costs
 regular:
-  student: "TBD"
-  regular: "TBD"
-# Tutorials-only attendance
-tutorials: "TBD"
+  student: "325"
+  regular: "600"
+  tutorials: "100" # Regular tutorial price
 # Optional conference dinner (comment out if there is no dinner)
 # conference_dinner: "TBD"

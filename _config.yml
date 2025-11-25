@@ -20,10 +20,10 @@ location: "Burlington 2026"
 locale: en-US
 # Support emails
 emails:
-  general: "ic2s2-2026@uvm.edu" # General inquiries email
-  accommodation: "ic2s2-2026@uvm.edu" # For hotel bookings etc.
-  childcare: "ic2s2-2026@uvm.edu" # For childcare related questions
-  visa: "ic2s2-2026@uvm.edu" # Visa related questions
+  general: "IC2S2@uvm.edu" # General inquiries email
+  accommodation: "IC2S2@uvm.edu" # For hotel bookings etc.
+  childcare: "IC2S2@uvm.edu" # For childcare related questions
+  visa: "IC2S2@uvm.edu" # Visa related questions
   awareness: "awareness-ic2s2@proton.me" # Awareness contact email during the event
 
 # Post address for the conference
